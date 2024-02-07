@@ -1,0 +1,2 @@
+ng build
+rsync -avz /Users/dani/Documents/repos/xcode-app/dist/xcode-app/browser/ root@85.215.154.81:/var/www/vhosts/xcode.es/httpdocs
